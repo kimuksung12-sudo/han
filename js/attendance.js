@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbyxbQ7GeDm7pq9SkYDSgGkt7GiKic878En8-niDDFuRg7-lyxo5F3E7LE5qYpqi2_Z14g/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbyDjlRY5ofWYl2iVPC1Cbmx1gj1LB0GcqwuNNhxllrJNCoob2g7z9sdadE_5c-STeiG4w/exec";
 
 const attendanceMonthInput = document.getElementById("attendanceMonth");
 const attendanceFileInput = document.getElementById("attendanceFile");
